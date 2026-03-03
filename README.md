@@ -4,7 +4,7 @@
 
 This project applies Big Data foundations and Machine Learning techniques to solve a real-world predictive problem using a large dataset (greater than 1GB). The complete pipeline includes distributed data processing using PySpark, multiple machine learning models, hyperparameter tuning, scalability analysis, and interactive Tableau dashboards for business insights.
 
-The project demonstrates the full Big Data lifecycle:
+The project applied the full Big Data lifecycle:
 - Data ingestion
 - Data preprocessing and feature engineering
 - Model training
@@ -16,7 +16,7 @@ The project demonstrates the full Big Data lifecycle:
 ---
 
 ## Dataset Description
-
+- Dataset Link: https://catalog.data.gov/dataset/crimes-2001-to-present
 - Large-scale dataset (>1GB)
 - More than 10 features
 - Processed using PySpark DataFrames
@@ -24,25 +24,6 @@ The project demonstrates the full Big Data lifecycle:
 - Partitioning strategy applied for performance optimization
 
 Due to GitHub size limitations, the full dataset is not uploaded. Only schema and processed outputs are included.
-
----
-
-## Project Structure
-
-```
-├── Data Ingestion.ipynb
-├── Data preprocessing And Feature Engineering.ipynb
-├── Model Training.ipynb
-├── Parameter Tuning and Sklearn Baseline.ipynb
-├── Scalability and Model Evaluation analysis.ipynb
-├── gbt_model/
-├── lr_model/
-├── lr_tuned_model/
-├── rf_model/
-├── svm_model/
-├── tableau/
-└── README.md
-```
 
 ---
 
