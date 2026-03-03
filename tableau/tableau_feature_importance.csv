@@ -1,0 +1,12 @@
+feature,importance
+domestic,0.004929
+hour_of_day,0.004697
+latitude,0.001642
+ward,0.001433
+year,0.00088
+community_area,0.000759
+beat,0.000285
+longitude,0.000235
+district,0.000232
+month_of_year,6.8e-05
+day_of_week,1.2e-05

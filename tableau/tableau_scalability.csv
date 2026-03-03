@@ -1,0 +1,7 @@
+fraction,rows_used,train_time_sec,auc,scaling_type
+0.25,951624,10.54,0.8786,Strong Scaling
+0.5,1900218,27.38,0.8794,Strong Scaling
+1.0,3797546,31.48,0.8806,Strong Scaling
+0.25,951624,41.77,0.8178,Weak Scaling
+0.5,1900218,113.51,0.8087,Weak Scaling
+1.0,3797546,348.4,0.8415,Weak Scaling

@@ -1,0 +1,17 @@
+column,null_count,null_percent
+iucr,0,0.0
+primary_type,0,0.0
+location_description,0,0.0
+arrest,0,0.0
+domestic,0,0.0
+beat,0,0.0
+district,0,0.0
+ward,0,0.0
+community_area,0,0.0
+fbi_code,0,0.0
+latitude,0,0.0
+longitude,0,0.0
+year,0,0.0
+hour_of_day,0,0.0
+day_of_week,0,0.0
+month_of_year,0,0.0

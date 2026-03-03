@@ -1,0 +1,5 @@
+Framework,Model,Data Size,AUC,Accuracy,F1,Time(s)
+PySpark MLlib,Logistic Regression,4.4M rows,0.8806,0.9181,0.9126,41.8
+PySpark MLlib,Random Forest,4.4M rows,0.84,0.9232,0.9087,951.79
+Sklearn,Logistic Regression,30k rows,0.9025,0.8817,0.8744,12.4
+Sklearn,Random Forest,30k rows,0.8894,0.8267,0.7967,2.71
